@@ -21,6 +21,6 @@
 - Basic programming and technology learning.
 
 📫 How to reach me:
-- Seelig2014@gmail.com
-- LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-arantes-a929bb24b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:seelig2014@gmail.com) 
 
